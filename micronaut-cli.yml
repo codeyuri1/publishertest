@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: br.com.yuri
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jpa, gradle, groovy, groovy-application, grpc, h2, jdbc-hikari, junit, logback, micronaut-build, readme, shade, yaml]
